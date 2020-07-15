@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoFactorAuthenticator", "TwoFactorAuthenticator\TwoFactorAuthenticator.csproj", "{E228DE2D-55B8-434E-8DB2-A9EC9D6FE51E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authenticator", "Authenticator\Authenticator.csproj", "{64623CF0-E26E-4F10-AC21-697C159330DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E228DE2D-55B8-434E-8DB2-A9EC9D6FE51E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E228DE2D-55B8-434E-8DB2-A9EC9D6FE51E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E228DE2D-55B8-434E-8DB2-A9EC9D6FE51E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E228DE2D-55B8-434E-8DB2-A9EC9D6FE51E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64623CF0-E26E-4F10-AC21-697C159330DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64623CF0-E26E-4F10-AC21-697C159330DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64623CF0-E26E-4F10-AC21-697C159330DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64623CF0-E26E-4F10-AC21-697C159330DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88617FC2-F17D-46C9-9341-5082583AD8FB}
+	EndGlobalSection
+EndGlobal
